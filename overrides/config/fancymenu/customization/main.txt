@@ -1,0 +1,218 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=97641%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 96
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=976411%
+  orientation = top-left
+  x = 10
+  action = movebutton
+  y = 380
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-left
+  x = 190
+  action = movebutton
+  y = 350
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 66
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 140
+  action = movebutton
+  y = 350
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = top-left
+  x = 115
+  action = movebutton
+  y = 350
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 6bdcc7a7-126a-4709-9ff4-0335e287aa101707091616106
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 122
+  action = deep_customization_element:title_screen_branding
+  actionid = b473d5b7-5fba-415b-9bec-dfa684c501111707091616106
+  y = 457
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 4334d921-fd1d-412c-a0dd-146e799280391707091616106
+  y = 489
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2e752087-2b0f-49ff-89db-6035bc3e4f781707091616106
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 068bae49-2430-452b-9183-2600a7caae9d1707091616106
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-left
+  splash_color = #ffff00
+  hidden = false
+  x = 198
+  width = 60
+  splash_rotation = 15
+  action = deep_customization_element:title_screen_splash
+  actionid = ab341a62-ab22-428c-9cbc-d4baca96befd1707091616106
+  y = -135
+  height = 30
+}
+
+customization {
+  path = assets/logo.png
+  orientation = mid-left
+  x = -1
+  width = 225
+  action = addtexture
+  actionid = 42765e75-73a8-4e40-b1ad-c403d28265111707092138609
+  y = -146
+  height = 53
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-left
+  x = 165
+  action = movebutton
+  y = 96
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+

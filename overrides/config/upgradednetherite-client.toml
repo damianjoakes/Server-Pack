@@ -1,0 +1,9 @@
+
+[general]
+	#Disable Tooltips ?
+	DisableTooltips = false
+	#Show Ressource Pack : Upgraded Netherite Alt ?
+	AltTextures = false
+	#Show Ressource Pack : Upgraded Netherite Old ?
+	OldTextures = false
+

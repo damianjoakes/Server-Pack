@@ -1,0 +1,68 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				item = true
+				bee = true
+				axolotl = true
+				wolf = true
+				cow = true
+				fox = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				cave_spider = true
+				zombie = true
+				glow_squid = true
+				witch = true
+				cod = true
+				squid = true
+				drowned = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+				enderman = true
+
+			[light_sources.settings.entities.evilcraft]
+				vengeance_spirit = true
+
+			[light_sources.settings.entities.adpother]
+				gas = true
+
+			[light_sources.settings.entities.aquaculture]
+				carp = true
+				jellyfish = true
+				bluegill = true
+				muskellunge = true
+				perch = true
+				brown_trout = true
+				smallmouth_bass = true
+				minnow = true
+				atlantic_herring = true
+
+			[light_sources.settings.entities.forcecraft]
+				creeper_tot = true
+				fairy = true
+
+			[light_sources.settings.entities.rats]
+				rat = true
+
+			[light_sources.settings.entities.vampirism]
+				vampire = true
+				hunter = true
+				advanced_vampire = true
+
+			[light_sources.settings.entities.forbidden_arcanus]
+				lost_soul = true
+
