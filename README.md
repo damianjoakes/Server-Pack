@@ -10,4 +10,4 @@ This will install the pack.
 
 ### Known Bugs 
 - Biome Blend causes weird graphical glitches. If some blocks are invisible and chunks are see through then disable biome blend.
-
+*Apparently [this](https://modrinth.com/mod/rubidium-aether-chunk-fix-1.19.4/version/0.6.4-dev-8.28.23) fixes it. Drop this in your mods folder after install. This is client side so don't worry about server incompatibilities.*
